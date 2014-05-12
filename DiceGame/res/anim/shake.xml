@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:interpolator="@anim/cycle" android:shareinterpolator="true" xmlns:android="http://schemas.android.com/apk/lib/com.examle.dicegame.MainActivity">
+ <translate android:duration="2000" android:fromxdelta="-5" android:toxdelta="5">
+</translate>
+</set>

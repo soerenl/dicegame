@@ -18,7 +18,7 @@
     <ImageView
         android:id="@+id/imgWelcome"
         android:layout_width="match_parent"
-        android:layout_height="348dp"
+        android:layout_height="200dp"
         android:src="@drawable/pig_start" />
 
     <Button
